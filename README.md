@@ -6,7 +6,7 @@
 
 ## 🔧 Technologies & Tools
 
-### 🌐 Web Development Frontend
+### 🪟 Web Development Frontend
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
@@ -19,7 +19,7 @@
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
-### 🌐 Web Development Backend
+### ⚙️ Web Development Backend
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
@@ -40,7 +40,7 @@
 [![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)](#)
 [![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)](#)
 
-### ⚙️ Other
+### 🌐 Other
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 ## 🚀 Featured Projects
