@@ -67,3 +67,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=terkoizmy&color=blueviolet)
 
+> "The blockchain symbolizes a shift in power from the centers to the edges of the networks." - Don Tapscott
+> Let's build this decentralized future together! 🌟
+
