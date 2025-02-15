@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Dimas Kusuma
 
 🚀 *Aspiring Full Stack Developer | AI & Blockchain Enthusiast*
 
