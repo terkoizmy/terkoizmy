@@ -63,7 +63,7 @@
 
 - 🔗 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 - 📧 Email: dimas.aryan021@gmail.com
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/terkoiz)
+- 💼 LinkedIn: [Dimas Kusuma](https://linkedin.com/in/terkoiz)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=terkoizmy&color=blueviolet)
 
