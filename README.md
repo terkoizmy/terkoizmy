@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Dimas Kusuma
 
-🚀 *Aspiring Full Stack Developer | AI & Blockchain Enthusiast*
+🚀 *Full Stack Developer | AI & Blockchain Enthusiast*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/terkoiz)
 
