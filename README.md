@@ -47,14 +47,6 @@
 ### 🌐 Other
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [facthub-net](https://github.com/terkoizmy/facthubnet) | Convex powered web aplication | NextJs, Convex, MongoDB |
-| [Datron](https://github.com/terkoizmy/datron) | Decentralize Dataset Marketplace | Solidity, Next, Tron Network |
-| [LMS Clone](https://github.com/terkoizmy/lms-clone) | Full stack Web Aplication | Next, Prisma, MongoDB, MUX |
-
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=terkoizmy&theme=tokyonight-duo)](https://git.io/streak-stats)
